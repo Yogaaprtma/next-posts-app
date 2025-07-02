@@ -33,4 +33,3 @@ Teknologi
 Next.js 14 (App Router)
 DaisyUI (Tailwind CSS)
 TypeScript
-# next-posts-app
